@@ -4,10 +4,10 @@
 ```bash script.sh img_name.jpg```
 
 # Requirements 
-
+***
 pip install requests
 pip install pyshorteners
-
+***
 # Dry run 
 ```
 [kunal@Gordonfreeman]$ bash script.sh shinji.jpg
