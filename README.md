@@ -5,8 +5,10 @@
 
 # Requirements 
 ***
+```
 pip install requests
 pip install pyshorteners
+```
 ***
 # Dry run 
 ```
